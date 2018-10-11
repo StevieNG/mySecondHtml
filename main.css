@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Orbitron|Poiret+One|Ranga:400,700');
-
+@import url('https://fonts.googleapis.com/css?family=Monda|Orbitron|Poiret+One|Ranga:400,700');
 
 *{
 
     background-color: #bce9f2;
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Monda', sans-serif;
 }
 
 h1{
 
-    font-family: 'Poiret One', cursive;
+    font-family: 'Orbitron', sans-serif;
     font-size: 30pt;
+    color: #e5164a;
 }
 
 .list{
